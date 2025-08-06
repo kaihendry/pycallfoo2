@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
   # Set the schedule, at 08:00 on day-of-month 1
   schedule:
-    - cron: 0 8 1 * *
+    - cron: 0 8 * * *
 
 permissions:
   contents: write
