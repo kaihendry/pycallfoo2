@@ -1,11 +1,11 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.11"
 
 [[package]]
 name = "pyunderstand"
-version = "0.1.dev2+gf0ea557"
-source = { git = "https://github.com/kaihendry/pyunderstand2#f0ea557c3091689b6922e923f13899b227d445c1" }
+version = "0.1.dev3+g822a9aa"
+source = { git = "https://github.com/kaihendry/pyunderstand2#822a9aaf75d5492c98215276f2d1b665e322eb78" }
 
 [[package]]
 name = "try"
