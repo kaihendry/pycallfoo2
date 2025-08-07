@@ -42,6 +42,4 @@ jobs:
           body-path: uv_output.md
           branch: update-uv
           base: main
-          labels: install
-          delete-branch: true
           add-paths: uv.lock
